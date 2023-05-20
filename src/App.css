@@ -51,3 +51,7 @@
   font-size: 40px;
   font-weight: bolder;
 }
+
+button {
+  background-color: red;
+}
